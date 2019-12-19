@@ -13,7 +13,7 @@
 	<key>CFBundleIcons~ipad</key>
 	<dict/>
 	<key>CFBundleIdentifier</key>
-	<string>net.line72.montclair</string>
+	<string>net.line72.montclair.steamboat</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -34,7 +34,7 @@
 		<true/>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>montclair.line72.net</key>
+			<key>steamboat.line72.net</key>
 			<dict/>
 		</dict>
 	</dict>
