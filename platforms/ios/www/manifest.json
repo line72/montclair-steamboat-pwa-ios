@@ -4,17 +4,17 @@
     "description": "Real Time Bus Tracking for Steamboat Springs, CO",
     "icons": [
         {
-            "src": "https://steamboat.line72.net/favicon.ico",
+            "src": "https://steamboat.gotransitapp.com/favicon.ico",
             "sizes": "196x196 192x192 152x152 144x144 96x96 72x72 48x48 32x32 24x24 16x16",
             "type": "image/x-icon"
         },
         {
-            "src": "https://steamboat.line72.net/app-icon.png",
+            "src": "https://steamboat.gotransitapp.com/app-icon.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "start_url": "https://steamboat.line72.net/index.html",
+    "start_url": "https://steamboat.gotransitapp.com/index.html",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "transparent",

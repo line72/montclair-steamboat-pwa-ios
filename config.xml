@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget xmlns="http://www.w3.org/ns/widgets" id="net.line72.montclair.steamboat" version="1.2.1">
+<widget xmlns="http://www.w3.org/ns/widgets" id="com.gotransitapp.steamboat" version="1.2.1">
     <name>Steamboat Transit</name>
     <description>Real Time Bus Tracking for Steamboat Springs, CO</description>
     <author email="line72@line72.net" href="http://line72.net">
         Marcus Dillavou
     </author>
-    <content src="https://steamboat.line72.net/index.html" />
+    <content src="https://steamboat.gotransitapp.com/index.html" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="tel:*" />
@@ -23,7 +23,7 @@
         <icon height="72" src="/favicon.ico" width="72" />
     </platform>
     <preference name="Fullscreen" value="true" />
-    <allow-navigation hap-rule="yes" href="https://steamboat.line72.net/*" />
+    <allow-navigation hap-rule="yes" href="https://steamboat.gotransitapp.com/*" />
     <platform name="windows">
     </platform>
     <platform name="wp8">

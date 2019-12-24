@@ -29,13 +29,13 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "net.line72.montclair.steamboat"
+            "PACKAGE_NAME": "com.gotransitapp.steamboat"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "net.line72.montclair.steamboat"
+            "PACKAGE_NAME": "com.gotransitapp.steamboat"
         },
         "cordova-plugin-hostedwebapp": {
-            "PACKAGE_NAME": "net.line72.montclair.steamboat"
+            "PACKAGE_NAME": "com.gotransitapp.steamboat"
         }
     },
     "dependent_plugins": {},
