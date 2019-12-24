@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget xmlns="http://www.w3.org/ns/widgets" id="com.gotransitapp.steamboat" version="1.2.1">
-    <name>GoSteamboat</name>
+    <name>Go Steamboat</name>
     <description>Real Time Tracking of the Buses for Steamboat Springs, CO</description>
     <author email="line72@line72.net" href="http://line72.net">
         Marcus Dillavou

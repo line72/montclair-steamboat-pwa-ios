@@ -28,7 +28,7 @@
     <feature name="NetworkStatus">
         <param name="ios-package" value="CDVConnection" />
     </feature>
-    <name>GoSteamboat</name>
+    <name>Go Steamboat</name>
     <description>Real Time Tracking of the Buses for Steamboat Springs, CO</description>
     <author email="line72@line72.net" href="http://line72.net">
         Marcus Dillavou
