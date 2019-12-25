@@ -3,6 +3,3 @@
 *.pbxuser
 .DS_Store
 build/
-CordovaLib/CordovaLib.xcodeproj/xcuserdata/
-Montclair.xcodeproj/project.xcworkspace
-Montclair.xcodeproj/xcuserdata/
