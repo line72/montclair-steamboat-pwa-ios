@@ -30,7 +30,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-navigation hap-rule="yes" href="https://montclair.line72.net/*" />
+    <allow-navigation hap-rule="yes" href="https://steamboat.gotransitapp.com/*" />
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <icon height="152" src="/favicon.ico" width="152" />
