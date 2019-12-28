@@ -1,9 +1,4 @@
-2.0.1 (2)
-==========
-2019-12-25  Marcus Dillavou  <line72@line72.net>
-	* Fixed landscape orientation and code signing
-
-2019-12-25  Marcus Dillavou  <line72@line72.net>
+2019-12-25  Marcus Dillavou  <marcus.dillavou@helplightning.com>
 	* Updated to latest build from pwabuilder.com
 
 1.0.0 (3)
