@@ -1,3 +1,13 @@
+2.0.4 (5)
+==========
+2020-01-07  Marcus Dillavou  <line72@line72.net>
+	* ISSUE-4 - Fix Touch Issues on iOS 13
+
+2.0.3 (4)
+==========
+2020-01-02  Marcus Dillavou  <line72@line72.net>
+	* Only ignore top-level node_modules
+
 2.0.2 (3)
 ==========
 2020-01-01  Marcus Dillavou  <line72@line72.net>
